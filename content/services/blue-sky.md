@@ -1,13 +1,13 @@
 ---
 title: 'Blue Sky'
 date: 2018-11-18T12:33:46+10:00
-icon: 'services/service-icon-6.png'
+icon: 'services/bluesky.png'
 draft: false
 featured: true
 weight: 2
 heroHeading: 'Blue Sky'
 heroSubHeading: 'Bounce your ideas and talk shop'
-heroBackground: 'services/service2.jpg'
+heroBackground: 'services/service2.png'
 ---
 
 We very much enjoy talking with our clients about the future of their products. We welcome any unconventional ideas.
