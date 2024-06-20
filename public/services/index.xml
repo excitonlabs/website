@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Exciton Labs</title>
+    <link>http://localhost:1313/services/</link>
+    <description>Recent content in Services on Exciton Labs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Nov 2018 12:33:46 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blue Sky</title>
+      <link>http://localhost:1313/services/blue-sky/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/services/blue-sky/</guid>
+      <description>We very much enjoy talking with our clients about the future of their products. We welcome any unconventional ideas.&#xA;Sometimes bouncing your ideas with like-minded individuals can help you better understand the direction you want to take. We can do this with a full NDA. Like you, we are creative problem solvers who get really excited about the potential of what is possible.&#xA;Often, the constraints on an idea come down to physics.</description>
+    </item>
+    <item>
+      <title>Cross Platform Apps</title>
+      <link>http://localhost:1313/services/cross-platform-apps/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/services/cross-platform-apps/</guid>
+      <description>We have developed single codebase that are compatible with Windows, Linux, macOS, and the web. We have used the Avalonia Framework to produce professional cross-platform applications.</description>
+    </item>
+    <item>
+      <title>Electronics</title>
+      <link>http://localhost:1313/services/electronics/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/services/electronics/</guid>
+      <description>We have experience with the STM32 microcontroller platform, using analogue and digital peripherals, as well as processing data using real-time digital signal processing (DSP).&#xA;We can also prototype boards, have them made, and debug them in our electronics workshop with a range of useful test equipment.</description>
+    </item>
+    <item>
+      <title>Measurement</title>
+      <link>http://localhost:1313/services/measurement/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/services/measurement/</guid>
+      <description>We use test equipment to characterise electronic designs and individual components. Audio components such as transformers and inductors can be very non-linear. A thorough understanding of their operation in the regime they will actually be used in is crucial. For example, these results cannot be obtained from just an LCR meter.</description>
+    </item>
+    <item>
+      <title>PCB Design</title>
+      <link>http://localhost:1313/services/pcb-design/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/services/pcb-design/</guid>
+      <description>The layout of analogue and digital signals on the PCB is critical for signal integrity and passing electromagnetic testing. We can layout boards following modern best practices, ensuring the minimum amount of rework.</description>
+    </item>
+    <item>
+      <title>Scientific Software</title>
+      <link>http://localhost:1313/services/scientific-software/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/services/scientific-software/</guid>
+      <description>Work with researchers and industrial scientists to implement scientific software. This often has an emphasis on numerical models, control of hardware, data processing algorithms, and visualisation.&#xA;For example, see pvtrace and solcore for two scientific projects we have been involved in.</description>
+    </item>
+  </channel>
+</rss>
