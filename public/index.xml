@@ -48,7 +48,7 @@
       <link>http://localhost:1313/services/scientific-software/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       <guid>http://localhost:1313/services/scientific-software/</guid>
-      <description>Work with researchers and industrial scientists to implement scientific software. This often has an emphasis on numerical models, control of hardware, data processing algorithms, and visualisation.&#xA;For example, see pvtrace and solcore for two scientific projects we have been involved in.</description>
+      <description>Work with researchers and industrial scientists to implement scientific software. This often has an emphasis on numerical models, control of hardware, data processing algorithms, and visualisation.&#xA;Case studies Solcore is a leading open-source solar cell simulation framework. We have contributed to its earlier versions by implementing semiconductor simulation techniques from published scientific works and wrote code to provide easy access to these simulation tools.&#xA;The pvtrace ray-tracing framework simplifies the problem of ray-tracing luminescent materials that re-emit optical radiation in response to illumination.</description>
     </item>
     <item>
       <title>About</title>
